@@ -1,2 +1,2 @@
-# upspeck-docker-wordpress-newrelic
+#docker-wordpress-newrelic
 Dockerfile for build wordpress and newrelic 
